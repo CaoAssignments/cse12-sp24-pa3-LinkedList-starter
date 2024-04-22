@@ -144,7 +144,7 @@ Node node3 = node1.getNext();</code>
   </tr>
 </table>
 
-**Note:** Sentinel nodes do NOT have index numbers. Index 0 is refers to the first non-sentinel node.
+**Note:** Sentinel nodes do NOT have index numbers. Index 0 refers to the first non-sentinel node.
 
 <table>
   <tr>
